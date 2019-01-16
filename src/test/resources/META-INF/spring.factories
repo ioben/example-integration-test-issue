@@ -1,1 +1,2 @@
 org.springframework.cloud.bootstrap.BootstrapConfiguration = com.example.testcontainers.BootstrapConfiguration
+org.springframework.test.context.ContextCustomizerFactory = com.example.testcontainers.CloseParentContextCustomizerFactory
