@@ -1,0 +1,5 @@
+spring:
+  test:
+    context:
+      cache:
+        maxSize: 2
